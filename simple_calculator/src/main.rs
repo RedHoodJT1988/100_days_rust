@@ -40,8 +40,9 @@ fn main() {
         "-" => subtract(num1, num2),
         "*" => multiply(num1, num2),
         "/" => divide(num1, num2),
+        "%" => remainder(num1, num2),
         _ => {
-            println!("❌ Invalid operator. Use +, -, *, /.");
+            println!("❌ Invalid operator. Use +, -, *, /, or %.");
             return;
         }
     };
@@ -67,4 +68,12 @@ fn divide(a: f64, b: f64) -> f64 {
         std::process::exit(1);
     }
     a / b
+}
+
+fn remainder(a: f64, b: f64) -> f64 {
+    if b == 0.0 {
+        println!("❌ Division by zero is not allowed.");
+        std::process::exit(1);
+    }
+    a % b 
 }
