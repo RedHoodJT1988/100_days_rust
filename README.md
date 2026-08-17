@@ -14,7 +14,7 @@ Let the journey begin! 🚀
 
 ### Phase 1: The Rusty Foundations
 - [x] **Day 1:** Hello, Rust!
-- [ ] **Day 2:** Temperature Converter
+- [x] **Day 2:** Temperature Converter
 - [ ] **Day 3:** Simple Calculator
 - [ ] **Day 4:** Guessing Game
 - [ ] **Day 5:** Word Counter
