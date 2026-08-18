@@ -16,7 +16,7 @@ Let the journey begin! 🚀
 - [x] **Day 1:** Hello, Rust!
 - [x] **Day 2:** Temperature Converter
 - [x] **Day 3:** Simple Calculator
-- [ ] **Day 4:** Guessing Game
+- [x] **Day 4:** Guessing Game
 - [ ] **Day 5:** Word Counter
 - [ ] **Day 6:** BMI Calculator
 - [ ] **Day 7:** Palindrome Checker
