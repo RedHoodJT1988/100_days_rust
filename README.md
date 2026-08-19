@@ -17,7 +17,7 @@ Let the journey begin! 🚀
 - [x] **Day 2:** Temperature Converter
 - [x] **Day 3:** Simple Calculator
 - [x] **Day 4:** Guessing Game
-- [ ] **Day 5:** Word Counter
+- [x] **Day 5:** Word Counter
 - [ ] **Day 6:** BMI Calculator
 - [ ] **Day 7:** Palindrome Checker
 - [ ] **Day 8:** Fibonacci Sequence Generator
