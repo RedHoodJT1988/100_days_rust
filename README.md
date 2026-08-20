@@ -18,7 +18,7 @@ Let the journey begin! 🚀
 - [x] **Day 3:** Simple Calculator
 - [x] **Day 4:** Guessing Game
 - [x] **Day 5:** Word Counter
-- [ ] **Day 6:** BMI Calculator
+- [x] **Day 6:** BMI Calculator
 - [ ] **Day 7:** Palindrome Checker
 - [ ] **Day 8:** Fibonacci Sequence Generator
 - [ ] **Day 9:** Prime Number Checker
