@@ -21,7 +21,7 @@ Let the journey begin! 🚀
 - [x] **Day 6:** BMI Calculator
 - [x] **Day 7:** Palindrome Checker
 - [x] **Day 8:** Fibonacci Sequence Generator
-- [ ] **Day 9:** Prime Number Checker
+- [x] **Day 9:** Prime Number Checker
 - [ ] **Day 10:** To-Do List App (CLI)
 
 ### Phase 2: Memory, Structs, & State
