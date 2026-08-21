@@ -22,7 +22,7 @@ Let the journey begin! 🚀
 - [x] **Day 7:** Palindrome Checker
 - [x] **Day 8:** Fibonacci Sequence Generator
 - [x] **Day 9:** Prime Number Checker
-- [ ] **Day 10:** To-Do List App (CLI)
+- [x] **Day 10:** To-Do List App (CLI)
 
 ### Phase 2: Memory, Structs, & State
 - [ ] **Day 11:** Basic Timer Tool
