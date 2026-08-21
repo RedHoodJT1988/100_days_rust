@@ -19,7 +19,7 @@ Let the journey begin! 🚀
 - [x] **Day 4:** Guessing Game
 - [x] **Day 5:** Word Counter
 - [x] **Day 6:** BMI Calculator
-- [ ] **Day 7:** Palindrome Checker
+- [x] **Day 7:** Palindrome Checker
 - [ ] **Day 8:** Fibonacci Sequence Generator
 - [ ] **Day 9:** Prime Number Checker
 - [ ] **Day 10:** To-Do List App (CLI)
