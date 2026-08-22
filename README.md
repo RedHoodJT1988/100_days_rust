@@ -37,7 +37,7 @@ Let the journey begin! 🚀
 - [x] **Day 20:** CRUD Operations on a Text File
 
 ### Phase 3: Architecture & Abstractions
-- [ ] **Day 21:** Error Handling Demo
+- [x] **Day 21:** Error Handling Demo
 - [ ] **Day 22:** Custom Error Types in CLI Tools
 - [ ] **Day 23:** Enum-Based State Machine
 - [ ] **Day 24:** CLI Chat Application (Single-User)
