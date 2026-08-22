@@ -49,7 +49,7 @@ Let the journey begin! 🚀
 - [x] **Day 30:** Plugin System with Traits
 
 ### Phase 4: Traits & Parallel Computing
-- [ ] **Day 31:** Generic Sorting Algorithms
+- [x] **Day 31:** Generic Sorting Algorithms
 - [ ] **Day 32:** Polymorphic Shape Renderer
 - [ ] **Day 33:** Trait Object Demo (Dynamic Behavior Switching)
 - [ ] **Day 34:** Command Pattern with Traits
