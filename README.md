@@ -32,7 +32,7 @@ Let the journey begin! 🚀
 - [x] **Day 15:** Memory Management Demo
 - [x] **Day 16:** String Manipulation Tool
 - [x] **Day 17:** Struct-Based Contact Manager
-- [ ] **Day 18:** Simple Banking System
+- [x] **Day 18:** Simple Banking System
 - [ ] **Day 19:** Linked List Implementation
 - [ ] **Day 20:** CRUD Operations on a Text File
 
