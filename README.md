@@ -27,7 +27,7 @@ Let the journey begin! 🚀
 ### Phase 2: Memory, Structs, & State
 - [x] **Day 11:** Basic Timer Tool
 - [x] **Day 12:** Rock-Paper-Scissors Game
-- [ ] **Day 13:** JSON Parser
+- [x] **Day 13:** JSON Parser
 - [ ] **Day 14:** File Reader CLI
 - [ ] **Day 15:** Memory Management Demo
 - [ ] **Day 16:** String Manipulation Tool
