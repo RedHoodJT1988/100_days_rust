@@ -29,7 +29,7 @@ Let the journey begin! 🚀
 - [x] **Day 12:** Rock-Paper-Scissors Game
 - [x] **Day 13:** JSON Parser
 - [x] **Day 14:** File Reader CLI
-- [ ] **Day 15:** Memory Management Demo
+- [x] **Day 15:** Memory Management Demo
 - [ ] **Day 16:** String Manipulation Tool
 - [ ] **Day 17:** Struct-Based Contact Manager
 - [ ] **Day 18:** Simple Banking System
