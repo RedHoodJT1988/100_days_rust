@@ -42,7 +42,7 @@ Let the journey begin! 🚀
 - [x] **Day 23:** Enum-Based State Machine
 - [x] **Day 24:** CLI Chat Application (Single-User)
 - [x] **Day 25:** Config File Parser
-- [ ] **Day 26:** Logger Utility
+- [x] **Day 26:** Logger Utility
 - [ ] **Day 27:** Data Validation Tool
 - [ ] **Day 28:** Generic Stack Implementation
 - [ ] **Day 29:** Generic Binary Search CLI
