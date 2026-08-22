@@ -34,7 +34,7 @@ Let the journey begin! 🚀
 - [x] **Day 17:** Struct-Based Contact Manager
 - [x] **Day 18:** Simple Banking System
 - [x] **Day 19:** Linked List Implementation
-- [ ] **Day 20:** CRUD Operations on a Text File
+- [x] **Day 20:** CRUD Operations on a Text File
 
 ### Phase 3: Architecture & Abstractions
 - [ ] **Day 21:** Error Handling Demo
