@@ -50,8 +50,8 @@ Let the journey begin! 🚀
 
 ### Phase 4: Traits & Parallel Computing
 - [x] **Day 31:** Generic Sorting Algorithms
-- [ ] **Day 32:** Polymorphic Shape Renderer
-- [ ] **Day 33:** Trait Object Demo (Dynamic Behavior Switching)
+- [x] **Day 32:** Polymorphic Shape Renderer
+- [x] **Day 33:** Trait Object Demo (Dynamic Behavior Switching)
 - [ ] **Day 34:** Command Pattern with Traits
 - [ ] **Day 35:** Multi-threaded Counter
 - [ ] **Day 36:** Build a Thread Pool
