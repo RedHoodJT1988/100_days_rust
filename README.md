@@ -38,7 +38,7 @@ Let the journey begin! 🚀
 
 ### Phase 3: Architecture & Abstractions
 - [x] **Day 21:** Error Handling Demo
-- [ ] **Day 22:** Custom Error Types in CLI Tools
+- [x] **Day 22:** Custom Error Types in CLI Tools
 - [ ] **Day 23:** Enum-Based State Machine
 - [ ] **Day 24:** CLI Chat Application (Single-User)
 - [ ] **Day 25:** Config File Parser
