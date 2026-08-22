@@ -41,7 +41,7 @@ Let the journey begin! 🚀
 - [x] **Day 22:** Custom Error Types in CLI Tools
 - [x] **Day 23:** Enum-Based State Machine
 - [x] **Day 24:** CLI Chat Application (Single-User)
-- [ ] **Day 25:** Config File Parser
+- [x] **Day 25:** Config File Parser
 - [ ] **Day 26:** Logger Utility
 - [ ] **Day 27:** Data Validation Tool
 - [ ] **Day 28:** Generic Stack Implementation

@@ -1,0 +1,3 @@
+username = alice
+timeout = 30
+debug = true
