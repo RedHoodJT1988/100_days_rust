@@ -33,7 +33,7 @@ Let the journey begin! 🚀
 - [x] **Day 16:** String Manipulation Tool
 - [x] **Day 17:** Struct-Based Contact Manager
 - [x] **Day 18:** Simple Banking System
-- [ ] **Day 19:** Linked List Implementation
+- [x] **Day 19:** Linked List Implementation
 - [ ] **Day 20:** CRUD Operations on a Text File
 
 ### Phase 3: Architecture & Abstractions
