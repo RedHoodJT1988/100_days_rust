@@ -28,7 +28,7 @@ Let the journey begin! 🚀
 - [x] **Day 11:** Basic Timer Tool
 - [x] **Day 12:** Rock-Paper-Scissors Game
 - [x] **Day 13:** JSON Parser
-- [ ] **Day 14:** File Reader CLI
+- [x] **Day 14:** File Reader CLI
 - [ ] **Day 15:** Memory Management Demo
 - [ ] **Day 16:** String Manipulation Tool
 - [ ] **Day 17:** Struct-Based Contact Manager
