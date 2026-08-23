@@ -61,7 +61,7 @@ Let the journey begin! 🚀
 - [x] **Day 40:** Concurrency-Based Data Processing
 
 ### Phase 5: Systems & Networking
-- [ ] **Day 41:** Directory Scanner
+- [x] **Day 41:** Directory Scanner
 - [ ] **Day 42:** File Compression Tool
 - [ ] **Day 43:** System Resource Monitor
 - [ ] **Day 44:** Multi-threaded File Copier
