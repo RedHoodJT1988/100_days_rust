@@ -1,0 +1,5 @@
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\build\proc-macro2-804917eb0a523508\build_script_build-804917eb0a523508.d: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro2-1.0.107\build.rs
+
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\build\proc-macro2-804917eb0a523508\build_script_build-804917eb0a523508.exe: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro2-1.0.107\build.rs
+
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\proc-macro2-1.0.107\build.rs:
