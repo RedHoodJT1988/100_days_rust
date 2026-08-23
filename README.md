@@ -58,7 +58,7 @@ Let the journey begin! 🚀
 - [x] **Day 37:** Simple Parallel Web Crawler
 - [x] **Day 38:** Producer-Consumer Model
 - [x] **Day 39:** Mutex and Arc Demo
-- [ ] **Day 40:** Concurrency-Based Data Processing
+- [x] **Day 40:** Concurrency-Based Data Processing
 
 ### Phase 5: Systems & Networking
 - [ ] **Day 41:** Directory Scanner
