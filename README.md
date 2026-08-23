@@ -62,7 +62,7 @@ Let the journey begin! 🚀
 
 ### Phase 5: Systems & Networking
 - [x] **Day 41:** Directory Scanner
-- [ ] **Day 42:** File Compression Tool
+- [x] **Day 42:** File Compression Tool
 - [ ] **Day 43:** System Resource Monitor
 - [ ] **Day 44:** Multi-threaded File Copier
 - [ ] **Day 45:** CSV File Processor
