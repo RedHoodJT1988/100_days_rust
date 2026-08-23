@@ -56,7 +56,7 @@ Let the journey begin! 🚀
 - [x] **Day 35:** Multi-threaded Counter
 - [x] **Day 36:** Build a Thread Pool
 - [x] **Day 37:** Simple Parallel Web Crawler
-- [ ] **Day 38:** Producer-Consumer Model
+- [x] **Day 38:** Producer-Consumer Model
 - [ ] **Day 39:** Mutex and Arc Demo
 - [ ] **Day 40:** Concurrency-Based Data Processing
 
