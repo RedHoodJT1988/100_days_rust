@@ -65,7 +65,7 @@ Let the journey begin! 🚀
 - [x] **Day 42:** File Compression Tool
 - [x] **Day 43:** System Resource Monitor
 - [x] **Day 44:** Multi-threaded File Copier
-- [ ] **Day 45:** CSV File Processor
+- [x] **Day 45:** CSV File Processor
 - [ ] **Day 46:** File Encryption Tool
 - [ ] **Day 47:** Process Manager
 - [ ] **Day 48:** Simple TCP Server
