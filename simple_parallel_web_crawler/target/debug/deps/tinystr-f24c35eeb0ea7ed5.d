@@ -1,0 +1,12 @@
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\deps\tinystr-f24c35eeb0ea7ed5.d: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\lib.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\macros.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ascii.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\asciibyte.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\error.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\int_ops.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\unvalidated.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ule.rs
+
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\deps\libtinystr-f24c35eeb0ea7ed5.rmeta: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\lib.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\macros.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ascii.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\asciibyte.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\error.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\int_ops.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\unvalidated.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ule.rs
+
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\lib.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\macros.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ascii.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\asciibyte.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\error.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\int_ops.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\unvalidated.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.4\src\ule.rs:

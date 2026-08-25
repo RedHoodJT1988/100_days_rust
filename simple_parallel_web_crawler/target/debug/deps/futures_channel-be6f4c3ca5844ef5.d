@@ -1,0 +1,9 @@
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\deps\futures_channel-be6f4c3ca5844ef5.d: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lib.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lock.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\oneshot.rs
+
+H:\rust\100_days_rust\simple_parallel_web_crawler\target\debug\deps\libfutures_channel-be6f4c3ca5844ef5.rmeta: C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lib.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lock.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\oneshot.rs
+
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lib.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\lock.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\mod.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\mpsc\queue.rs:
+C:\Users\jonat\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-channel-0.3.34\src\oneshot.rs:
