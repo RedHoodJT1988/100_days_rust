@@ -66,7 +66,7 @@ Let the journey begin! 🚀
 - [x] **Day 43:** System Resource Monitor
 - [x] **Day 44:** Multi-threaded File Copier
 - [x] **Day 45:** CSV File Processor
-- [ ] **Day 46:** File Encryption Tool
+- [x] **Day 46:** File Encryption Tool
 - [ ] **Day 47:** Process Manager
 - [ ] **Day 48:** Simple TCP Server
 - [ ] **Day 49:** TCP Client
