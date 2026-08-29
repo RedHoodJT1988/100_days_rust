@@ -67,8 +67,8 @@ Let the journey begin! 🚀
 - [x] **Day 44:** Multi-threaded File Copier
 - [x] **Day 45:** CSV File Processor
 - [x] **Day 46:** File Encryption Tool
-- [ ] **Day 47:** Process Manager
-- [ ] **Day 48:** Simple TCP Server
+- [x] **Day 47:** Process Manager
+- [x] **Day 48:** Simple TCP Server
 - [ ] **Day 49:** TCP Client
 - [ ] **Day 50:** Multi-Client Chat Server
 
