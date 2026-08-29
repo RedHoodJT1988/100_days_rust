@@ -69,7 +69,7 @@ Let the journey begin! 🚀
 - [x] **Day 46:** File Encryption Tool
 - [x] **Day 47:** Process Manager
 - [x] **Day 48:** Simple TCP Server
-- [ ] **Day 49:** TCP Client
+- [x] **Day 49:** TCP Client
 - [ ] **Day 50:** Multi-Client Chat Server
 
 ### Phase 6: Protocols & Deep CLI
