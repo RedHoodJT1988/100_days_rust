@@ -75,7 +75,7 @@ Let the journey begin! 🚀
 ### Phase 6: Protocols & Deep CLI
 - [x] **Day 51:** HTTP Request Parser
 - [x] **Day 52:** REST API Consumer
-- [ ] **Day 53:** Port Scanner
+- [x] **Day 53:** Port Scanner
 - [ ] **Day 54:** WebSocket Echo Server
 - [ ] **Day 55:** Build a CLI Shell (Mini Terminal)
 - [ ] **Day 56:** Build a Rust-Based Text Editor (Mini Editor)
