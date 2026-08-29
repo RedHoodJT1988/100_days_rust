@@ -70,10 +70,10 @@ Let the journey begin! 🚀
 - [x] **Day 47:** Process Manager
 - [x] **Day 48:** Simple TCP Server
 - [x] **Day 49:** TCP Client
-- [ ] **Day 50:** Multi-Client Chat Server
+- [x] **Day 50:** Multi-Client Chat Server
 
 ### Phase 6: Protocols & Deep CLI
-- [ ] **Day 51:** HTTP Request Parser
+- [x] **Day 51:** HTTP Request Parser
 - [ ] **Day 52:** REST API Consumer
 - [ ] **Day 53:** Port Scanner
 - [ ] **Day 54:** WebSocket Echo Server
