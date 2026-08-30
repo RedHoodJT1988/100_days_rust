@@ -1,0 +1,10 @@
+[package]
+name = "websocket_echo_server"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+futures-util = { version = "0.3.34", features = ["sink"] }
+tokio = { version = "1.37", features = ["full"] }
+tokio-tungstenite = "0.21"
+tungstenite = "0.21"
