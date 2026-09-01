@@ -82,7 +82,7 @@ Let the journey begin! 🚀
 - [x] **Day 57:** Key-Value Store
 - [x] **Day 58:** Scheduler Simulation
 - [x] **Day 59:** Binary File Parser
-- [ ] **Day 60:** Remote File Sync Tool (Local Simulation)
+- [x] **Day 60:** Remote File Sync Tool (Local Simulation)
 
 ### Phase 7: Backend Mastery with Actix-Web
 - [ ] **Day 61:** Hello Actix-Web App
