@@ -85,7 +85,7 @@ Let the journey begin! 🚀
 - [x] **Day 60:** Remote File Sync Tool (Local Simulation)
 
 ### Phase 7: Backend Mastery with Actix-Web
-- [ ] **Day 61:** Hello Actix-Web App
+- [x] **Day 61:** Hello Actix-Web App
 - [ ] **Day 62:** REST API Server with Actix-Web
 - [ ] **Day 63:** User Authentication API (Actix-Web)
 - [ ] **Day 64:** CRUD API with Actix-Web
