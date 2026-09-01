@@ -87,7 +87,7 @@ Let the journey begin! 🚀
 ### Phase 7: Backend Mastery with Actix-Web
 - [x] **Day 61:** Hello Actix-Web App
 - [x] **Day 62:** REST API Server with Actix-Web
-- [ ] **Day 63:** User Authentication API (Actix-Web)
+- [x] **Day 63:** User Authentication API (Actix-Web)
 - [ ] **Day 64:** CRUD API with Actix-Web
 - [ ] **Day 65:** JWT Authentication in Actix-Web
 - [ ] **Day 66:** SQLite Integration with Actix-Web
