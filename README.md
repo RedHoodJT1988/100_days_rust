@@ -76,10 +76,10 @@ Let the journey begin! 🚀
 - [x] **Day 51:** HTTP Request Parser
 - [x] **Day 52:** REST API Consumer
 - [x] **Day 53:** Port Scanner
-- [ ] **Day 54:** WebSocket Echo Server
-- [ ] **Day 55:** Build a CLI Shell (Mini Terminal)
-- [ ] **Day 56:** Build a Rust-Based Text Editor (Mini Editor)
-- [ ] **Day 57:** Key-Value Store
+- [x] **Day 54:** WebSocket Echo Server
+- [x] **Day 55:** Build a CLI Shell (Mini Terminal)
+- [x] **Day 56:** Build a Rust-Based Text Editor (Mini Editor)
+- [x] **Day 57:** Key-Value Store
 - [ ] **Day 58:** Scheduler Simulation
 - [ ] **Day 59:** Binary File Parser
 - [ ] **Day 60:** Remote File Sync Tool (Local Simulation)
