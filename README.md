@@ -89,7 +89,7 @@ Let the journey begin! 🚀
 - [x] **Day 62:** REST API Server with Actix-Web
 - [x] **Day 63:** User Authentication API (Actix-Web)
 - [x] **Day 64:** CRUD API with Actix-Web
-- [ ] **Day 65:** JWT Authentication in Actix-Web
+- [x] **Day 65:** JWT Authentication in Actix-Web
 - [ ] **Day 66:** SQLite Integration with Actix-Web
 - [ ] **Day 67:** PostgreSQL CRUD App with SQLx + Actix-Web
 - [ ] **Day 68:** Todo App with Actix-Web + PostgreSQL (Full CRUD)
