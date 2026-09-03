@@ -90,10 +90,10 @@ Let the journey begin! 🚀
 - [x] **Day 63:** User Authentication API (Actix-Web)
 - [x] **Day 64:** CRUD API with Actix-Web
 - [x] **Day 65:** JWT Authentication in Actix-Web
-- [ ] **Day 66:** SQLite Integration with Actix-Web
-- [ ] **Day 67:** PostgreSQL CRUD App with SQLx + Actix-Web
-- [ ] **Day 68:** Todo App with Actix-Web + PostgreSQL (Full CRUD)
-- [ ] **Day 69:** Blog API Backend (Posts, Comments, Categories)
+- [x] **Day 66:** SQLite Integration with Actix-Web
+- [x] **Day 67:** PostgreSQL CRUD App with SQLx + Actix-Web
+- [x] **Day 68:** Todo App with Actix-Web + PostgreSQL (Full CRUD)
+- [x] **Day 69:** Blog API Backend (Posts, Comments, Categories)
 - [ ] **Day 70:** E-Commerce Backend with Actix-Web + PostgreSQL
 
 ### Phase 8: Full-Stack & Ecosystem
